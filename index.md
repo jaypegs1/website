@@ -27,6 +27,8 @@
 <h3>Links and Images</h3>
 <p>First I am going to link to <a href="https://quizlet.com/en-gb">my website</a></p>
 
+<img src="https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F586451794_1280x720.jpg&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png" />
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaypegs1/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
