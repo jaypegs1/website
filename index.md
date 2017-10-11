@@ -2,12 +2,28 @@
 <h2>Section 1: What you can learn here.</h2> 
 <p>This is the first paragraph. This is not that interesting at the moment.</p>
 
+<hr>
 
+<h2>Some HTML Formatting stuff.</h2>
+<h3>Lists</h3>
+<h3>Ordered lists have numbers</h4>
+<ol>
+   <li>Item 1</li>
+   <li>Item 2</li>
+</ol>
 
+<h4>Unordered lists have bullets</h4>
+<ul>
+   <li>Item 1</li>
+   <li>Item 2</li>
+</ul>
 
+<hr>
 
-
-
+<h3>Text styles</h3>
+<p>In this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh no!</em> he cried.
+  
+<hr>
 
 ### Jekyll Themes
 
