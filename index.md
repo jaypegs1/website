@@ -1,6 +1,6 @@
 <h1>welcome to my language learning site</h1>
-<h2>Section 1: What you can learn here. </h2> 
-<p>This is the first paragraph. This is not that interesting at the moment. </p>
+<h2>Section 1: What you can learn here.</h2> 
+<p>This is the first paragraph. This is not that interesting at the moment.</p>
 
 
 
