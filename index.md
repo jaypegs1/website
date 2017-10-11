@@ -24,6 +24,8 @@
 <p>In this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh no!</em> he cried.
   
 <hr>
+<h3>Links and Images</h3>
+<p>First I am going to link to <a href="https://quizlet.com/en-gb">my website</a></p>
 
 ### Jekyll Themes
 
