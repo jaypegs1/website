@@ -43,7 +43,7 @@
  
 </table>
 
-<img src="
+<img src="img/doggie pic.jpg" />
 
 
 
