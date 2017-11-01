@@ -1,4 +1,4 @@
-<p>Hi there</p>
+<p>Hi there and welcome to this page!</p>
 
 
 <ul class="breadcrumb">
