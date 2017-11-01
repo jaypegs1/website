@@ -43,7 +43,7 @@
  
 </table>
 
-<img src="img/doggie pic.jpg" />
+<img src="img/doggie pic.jpg" style="width:50%;" />
 
 
 
