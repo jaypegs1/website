@@ -12,9 +12,9 @@
 
 <p>
   
-<a style="float:left;" href="page2.html>Back to Videos</a>
+<a style="float:left;" href="page1.html>Back to Videos</a>
                               
-<a style="float:right;" href="exercise2.html>Continue to exercise 2</a>
+<a style="float:right;" href="exercise2.html>Continue to exercise 3</a>
                               
 </p>
 
